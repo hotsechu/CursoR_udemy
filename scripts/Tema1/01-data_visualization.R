@@ -10,6 +10,7 @@ library(tidyverse)
 # La relación consumo/tamaño es lineal? O es exponencial?
 # Es positiva? Negativa?
 
+
 View(mpg)
 ?help   # help(mpg)
 # displ: tamaño del motor del coche en litros
